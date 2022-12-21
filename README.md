@@ -1,23 +1,20 @@
-### Yo 👋
+<h1 align="center">Yo 👋 I'm Marcus</h1>
+<h3 align="center">
+  I'm a software developer in the UK currently working for 
+  <a href="www.shopblocks.com" style="color: #3fdec4">Shopblocks</a>
+</h3>
 
+<h4 align="left">My Skills:</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=angular,js,jquery,vue,html,bootstrap,php,laravel,css,scss,docker,git,mysql,redis&perline=7&theme=light" />
+</a>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,js,jquery,vue,html,bootstrap,php,laravel,css,scss,docker,git,mysql,redis" />
-  </a>
+<h4 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/marcus-nightingale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marcus-nightingale" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marcus-nightingale-bb4207140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcus-nightingale-bb4207140" height="30" width="40" /></a>
 </p>
 
-<!--
-**Marcus-Nightingale/Marcus-Nightingale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Nightingale&hide=stars,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Nightingale&count_private=true&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
