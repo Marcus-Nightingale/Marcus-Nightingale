@@ -11,8 +11,8 @@
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/marcus-nightingale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marcus-nightingale" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marcus-nightingale-bb4207140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcus-nightingale-bb4207140" height="30" width="40" /></a>
+<a href="https://codepen.io/marcus-nightingale" target="blank"><img align="center" src="https://raw.githubusercontent.com/Marcus-Nightingale/Marcus-Nightingale/main/codepen.svg" alt="marcus-nightingale" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/marcus-nightingale-bb4207140" target="blank"><img align="center" src="https://raw.githubusercontent.com/Marcus-Nightingale/Marcus-Nightingale/main/linkedin.svg" alt="marcus-nightingale-bb4207140" height="40" width="40" /></a>
 </p>
 
 [![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Nightingale&hide=stars,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
