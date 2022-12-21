@@ -1,4 +1,11 @@
-### Hi there 👋
+### Yo 👋
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,js,jquery,vue,html,bootstrap,php,laravel,css,scss,docker,git,mysql,redis" />
+  </a>
+</p>
 
 <!--
 **Marcus-Nightingale/Marcus-Nightingale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
