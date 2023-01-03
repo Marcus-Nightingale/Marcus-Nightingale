@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋 I'm Marcus</h1>
 <h3 align="center">
   I'm a software developer in the UK currently working for 
-  <a href="www.shopblocks.com" style="color: #3fdec4;">Shopblocks</a>
+  <a href="https://www.shopblocks.com" style="color: #3fdec4;">Shopblocks</a>
 </h3>
 
 <h4 align="left">My Skills:</h3>
