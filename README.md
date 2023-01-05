@@ -20,6 +20,6 @@
 </p>
 <br />
 
-[![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Nightingale&hide=stars,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Nightingale&hide=stars,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Nightingale&count_private=true&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Nightingale&count_private=true&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
