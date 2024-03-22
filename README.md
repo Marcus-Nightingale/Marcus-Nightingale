@@ -6,7 +6,7 @@
 
 <h4 align="left">My Skills:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,js,jquery,vue,html,bootstrap,php,laravel,css,scss,docker,git,mysql,redis&perline=7&theme=light" />
+  <img src="https://skillicons.dev/icons?i=angular,js,jquery,vue,html,bootstrap,php,laravel,css,scss,docker,git,mysql,redis,ts,sqlite,npm,nginx,md,htmx,elasticsearch,docker&perline=7&theme=light" />
 </a>
 
 <h4 align="left">Connect with me:</h3>
